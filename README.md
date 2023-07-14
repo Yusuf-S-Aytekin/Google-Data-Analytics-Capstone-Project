@@ -15,3 +15,7 @@
 ### About The Visualisations Folder
 
 - This folder contains the images in the presentation.
+
+### About The Process File
+
+- This file shows the steps of the data analysis process.
