@@ -1,0 +1,35 @@
+text.color : (0.1,0.1,0.1)
+
+
+axes.titlesize : 16
+axes.labelsize : 14
+axes.facecolor: (1,1,1)
+axes.edgecolor : (0.1,0.1,0.1) #Normalized RGB colours (from 0 to 1 instead of 0 to 255)
+axes.labelcolor : (0.1,0.1,0.1)
+axes.linewidth : 1
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+
+
+axes.grid : True
+grid.alpha : 0.4
+grid.color : (0.1,0.1,0.1)
+
+
+
+
+xtick.labelsize : 13
+xtick.color : (0.1,0.1,0.1)
+xtick.direction : out
+ytick.labelsize : 13
+ytick.color : (0.1,0.1,0.1)
+ytick.direction : out
+
+
+figure.figsize  : 14, 7
+figure.dpi : 150
+figure.facecolor: (1,1,1)
+savefig.dpi : 200
+savefig.facecolor: (1,1,1)
